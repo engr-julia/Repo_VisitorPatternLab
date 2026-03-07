@@ -1,4 +1,4 @@
-public interface Visitor {
+public interface ShippingVisitor {
 
     void visitChair(Chair chair);
 
