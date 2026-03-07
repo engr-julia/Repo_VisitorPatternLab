@@ -41,7 +41,7 @@ Below is the UML Class Diagram for the **Visitor Design Pattern implementation**
 
 *(Insert UML Diagram Below)*
 
-![Visitor Pattern UML Diagram](Visitor.jpeg)
+![Visitor Pattern UML Diagram](Visitor.JPG)
 
 ---
 
